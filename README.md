@@ -1,2 +1,8 @@
-# Sumarizzing-A1
-Sumarizzing Assignment 1
+# Sumarizzing
+The project commenced with an initial focus on web scraping techniques using BeautifulSoup (BS4) and Selenium to gather data. Following data acquisition, the project advanced into Exploratory Data Analysis (EDA), where thorough examination and visualization of the collected data were conducted to derive insights and understand patterns.
+
+Subsequently, the project shifted its attention to foundational Supervised Learning Techniques, where algorithms and models were explored to predict and classify data based on labeled examples. This phase provided a solid grounding in traditional machine learning methods before transitioning into the realm of Deep Learning.
+
+In the Deep Learning phase, the project explored advanced neural network architectures. It started with Fully Connected Neural Networks (FNNs) for general data modeling, progressed to Convolutional Neural Networks (CNNs) for image analysis, and moved on to Recurrent Neural Networks (RNNs), Long Short-Term Memory networks (LSTMs), and Gated Recurrent Unit networks (GRUs) for sequential data tasks. These models were implemented using powerful frameworks like Keras and TensorFlow, showcasing their applications across various domains and data types.
+
+Towards the culmination of the project, there was a focus on semantic understanding. This involved leveraging sophisticated techniques such as BERT (Bidirectional Encoder Representations from Transformers) and Word2Vec for natural language processing tasks. These models enabled the project to delve deeper into understanding and interpreting the meaning and context within textual data, marking a significant milestone in the project's evolution and scope.
